@@ -2,6 +2,6 @@
 
 Hackathon Project of CSOC from Backbench-Coders.
 
-To Contribute:
+### To Contribute:
 
-Read CONTRIBUTING.md
+Read [CONTRIBUTING.md](CONTRIBUTING.md)
